@@ -1,4 +1,4 @@
-//Programinha que escreve mensagem na tela na tela
+//Programinha em java que escreve mensagem na tela
 
 public class OlaMundo
 {
