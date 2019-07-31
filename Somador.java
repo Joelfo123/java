@@ -1,4 +1,4 @@
-//Programa que recebe dois números inteiros e mostra a soma na tela
+//Programa em java que recebe dois números inteiros e mostra a soma na tela
 import java.util.Scanner;
 
 public Class Somador
