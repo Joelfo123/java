@@ -1,5 +1,5 @@
 //ex1---------------------------------------------------------
-//Programa que mostra na tela números pares de 1 até 20 
+//Programa que mostra na tela números pares de 0 até 20 
 //Autor: Joel Guerreiro
 //Disciplina : Estrutura de Dados I
 import java.util.Scanner;
