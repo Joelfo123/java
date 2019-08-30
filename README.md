@@ -5,7 +5,7 @@ Este repositório está sendo criado por mim em função da necessidade de se es
 
 Estarei usando material proposto pelo professor em sala de aula.
 
-O sistema operacional que usarei será o Manjaro KDE ( https://manjaro.org/download/kde/ )
+O sistema operacional que usarei será o Manjaro KDE ( https://manjaro.org/download/kde/ ).
 
 Especificações técnicas:
     Operating System: 
