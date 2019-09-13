@@ -20,7 +20,7 @@ public class Ex4 {
 		Scanner entrada = new Scanner(System.in);
 		int numero = 1; // setando a variável para iniciar o laço
 		
-		while ( numero != 500 ) {
+		while ( numero < 500 ) {
 			do {
 				System.out.println("Digite um numero: ");
 				numero = Integer.parseInt(entrada.nextLine());
