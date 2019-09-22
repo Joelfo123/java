@@ -47,6 +47,6 @@ public class Ex13 {
 		for ( int i = 0 ; i < idades.length ; i++) {
 			System.out.println("Nome: " + vetNome[i] + " nascido(a) em: " + ano[i]+ " - " + idades[i] + " anos de idade.\n");
 		}
-		
+		entrada.close();
 	}
 }
