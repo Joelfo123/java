@@ -135,7 +135,7 @@ public class Ex17 {
 						}
 					}
 					
-					mediaElementos = somador / 2;
+					mediaElementos = somador / 25;
 					
 					System.out.printf("A média dos elementos da matriz é: %.2f", mediaElementos);
 					System.out.println(" ");
